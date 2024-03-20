@@ -5,8 +5,8 @@ function Header() {
 
 
     return (
-        <header className="header">
-
+        <header>
+            <div className="head"></div>
         </header>
     )
 }

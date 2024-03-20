@@ -12,6 +12,9 @@ code {
     monospace;
 }
 
-header {
-  color: black;
+.head {
+  background-color: black;
+  width: 100%;
+  min-height: 50px;
+  height: auto;
 }
