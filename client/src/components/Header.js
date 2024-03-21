@@ -1,13 +1,21 @@
 import React from "react";
+import { NavLink } from 'react-router-dom';
 
 
 function Header() {
 
 
     return (
-        <header>
-            <div className="head"></div>
-        </header>
+  
+            <div className="head">
+                <nav>
+                    <NavLink to="/"
+                    className="nav-button"
+                    >
+                     Home   
+                    </NavLink>
+                </nav>
+            </div>
     )
 }
 

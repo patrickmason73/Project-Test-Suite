@@ -18,3 +18,21 @@ code {
   min-height: 50px;
   height: auto;
 }
+
+.button-header {
+  background-color: azure;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: black;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 5px;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+}
