@@ -10,7 +10,7 @@ function Header() {
             <div className="head">
                 <nav>
                     <NavLink to="/"
-                    className="nav-button"
+                    className="button-header"
                     >
                      Home   
                     </NavLink>
