@@ -14,6 +14,11 @@ function Header() {
                     >
                      Home   
                     </NavLink>
+                    <NavLink to="/menu"
+                    className="button-header"
+                    >
+                     Menu   
+                    </NavLink>
                 </nav>
             </div>
     )
