@@ -19,6 +19,11 @@ function Header() {
                     >
                      Menu   
                     </NavLink>
+                    <NavLink to="/contact"
+                    className="button-header"
+                    >
+                     Contact Us   
+                    </NavLink>
                 </nav>
             </div>
     )
